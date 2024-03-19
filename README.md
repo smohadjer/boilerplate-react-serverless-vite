@@ -1,6 +1,6 @@
-# Boilerplate for creating React Apps with Serverless support
+# Boilerplate for creating React apps with serverless support using vite
 
-https://boilerplate-react-serverless.vercel.app/
+https://boilerplate-react-serverless-vite.vercel.app/
 
 ## Run on http://localhost:3000 (requires Vercel CLI)
 ````
