@@ -9,6 +9,11 @@ npm install
 vercel dev
 ````
 
+If you need database support you can create a `.env` file in root of the project with the following variable to access a remote MongoDB instance (replace username and password with yours):
+````
+DB_URI = "mongodb+srv://<username>:<password>@cluster0.3d1jx4z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+````
+
 ## Deploy to live
 ````
 vercel --prod
